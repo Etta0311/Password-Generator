@@ -1,6 +1,6 @@
 # Password Generator
 
-Link: [Password Generator](https://etta0311.github.io/wk3-Homework/)
+Link: [Password Generator](https://etta0311.github.io/wk3-Homework/Develop/)
 
 ## Description
 
